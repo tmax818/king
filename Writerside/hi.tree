@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                 start-page="1.md">
+
+    <toc-element topic="1.md">
+        <toc-element topic="1_1.md"/>
+        <toc-element topic="1_2.md"/>
+    </toc-element>
+    <toc-element topic="2.md">
+        <toc-element topic="2_1.md"/>
+    </toc-element>
+    <toc-element topic="3.md">
+        <toc-element topic="3_1.md"/>
+        <toc-element topic="3_2.md"/>
+    </toc-element>
+    <toc-element topic="4.md">
+        <toc-element topic="4_2.md"/>
+        <toc-element topic="4_1.md"/>
+    </toc-element>
+    <toc-element topic="5.md">
+        <toc-element topic="5_1.md"/>
+    </toc-element>
+    <toc-element topic="6.md">
+        <toc-element topic="6_1.md"/>
+        <toc-element topic="6_2.md"/>
+    </toc-element>
+    <toc-element topic="7.md">
+        <toc-element topic="7_4.md"/>
+        <toc-element topic="7_5.md"/>
+        <toc-element topic="7_3.md"/>
+        <toc-element topic="7_1.md"/>
+        <toc-element topic="7_2.md"/>
+        <toc-element topic="7_6.md"/>
+    </toc-element>
+</instance-profile>
